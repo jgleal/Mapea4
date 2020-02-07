@@ -1,5 +1,5 @@
 # Mapea 4
-
+test
 [Mapea 4](http://mapea4-sigc.juntadeandalucia.es/) es una herramienta que permite integrar de una forma muy sencilla un visualizador de mapas interactivo en cualquier página web y configurarlo consumiendo ficheros WMC, servicios WMS, servicios WFS, ficheros KML, etc. Además, provee la capacidad de añadir una gran cantidad de herramientas y controles.
 
 Para adaptarse a las necesidades de los usuarios y ser mucho más flexible, Mapea cuenta con dos APIs. De esta manera, es el propio usuario el que selecciona la que más se adapta a las necesidades que necesite cubrir en cada momento:
